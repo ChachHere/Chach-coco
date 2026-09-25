@@ -7,6 +7,8 @@
 // @include      https://hoathinh3d.*/me-cung*
 // @run-at       document-start
 // @grant        none
+// @updateURL   https://raw.githubusercontent.com/ChachHere/Chach-coco/main/Chanh.js
+// @downloadURL https://raw.githubusercontent.com/ChachHere/Chach-coco/main/Chanh.js
 // ==/UserScript==
 
 (() => {
